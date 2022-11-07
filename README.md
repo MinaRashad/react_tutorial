@@ -9,3 +9,9 @@ I originally used vanilla javascript to create everything (and I mean everything
 Feel free to use these as notes if you want.
 
 I will be commenting all code as much as I can.
+
+Things I will make:
+
+- A Tik-Tak-Toe game from tutorial and add a minmax Algorithm to play the game
+- A pong game
+- if i have more ideas I will put them here ..
